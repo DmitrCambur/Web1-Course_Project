@@ -175,7 +175,7 @@ html,body {
   display: block;
 }
 
-@media screen and (max-width: 992px){
+@media screen and (min-width: 992px){
   .about__image{
    margin-right: 20px;
  }
